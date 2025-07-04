@@ -2,6 +2,10 @@ import React from 'react'
 
 function Home() {
 
+    return {
+        <div>Home</div>
+    }
+
     const listItems = [1,2,3,4]
 
     const addItem = () => {
